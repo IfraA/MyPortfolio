@@ -1,8 +1,8 @@
 {
-    "title": "Creative",
-    "name": "startbootstrap-creative",
+    "title": "Portfolio",
+    "name": "Ifra Aijaz",
     "version": "4.1.1",
-    "description": "Creative is a stylish one page HTML theme for Bootstrap.",
+    "description": "Portfolio website.",
     "keywords": [
         "css",
         "sass",
@@ -11,10 +11,10 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/creative",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
-        "email": "feedback@startbootstrap.com"
+    "homepage": "https://ifraa.github.io/MyPortfolio/",
+    "git": {
+        "url": "https://github.com/IfraA/MyPortfolio",
+        "email": "ifraa.aijaz@gmail.com"
     },
     "license": "MIT",
     "author": "Start Bootstrap",
@@ -23,7 +23,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+        "url": "https://github.com/IfraA/MyPortfolio"
     },
     "dependencies": {
         "bootstrap": "4.1.1",
