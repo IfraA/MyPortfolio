@@ -175,6 +175,11 @@ header.masthead {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-attachment: fixed !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 500px; 
+ 
 }
 
 header.masthead hr {
