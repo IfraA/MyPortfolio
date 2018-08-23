@@ -1,0 +1,15 @@
+.navbar{
+    border-bottom: rgb(218, 216, 216) 1px solid;
+}
+.turf{
+    width:100%;
+  
+}
+.light{
+    background-color: white;
+    border-bottom: rgb(218, 216, 216) 1px solid;
+}
+.dark{
+    background-color: #fafafa;
+    border-bottom: rgb(218, 216, 216) 1px solid;
+}
