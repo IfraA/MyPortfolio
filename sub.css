@@ -1,5 +1,13 @@
+*body{
+    color:#72726f;
+}
 .navbar{
     border-bottom: rgb(218, 216, 216) 1px solid;
+  
+ 
+}
+.navLogo{
+    margin-left: 30px;
 }
 .turf{
     width:100%;
@@ -12,4 +20,17 @@
 .dark{
     background-color: #fafafa;
     border-bottom: rgb(218, 216, 216) 1px solid;
+}
+.title{
+    font-style: italic;
+}
+.subhead{
+    font-size:15px !important;
+    color:#888887 !important;
+
+}
+p{
+    color:#72726f;
+    opacity: 50%;
+    font-size: 12px;
 }
